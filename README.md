@@ -1,1 +1,1 @@
-My first readme
+Creating git directory
